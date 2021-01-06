@@ -1,6 +1,6 @@
 # escapegame.fr scraping
 
-This is a script using ![Puppeteer](https://www.npmjs.com/package/puppeteer) to retreive the data contain in the HTML code of escapegame.fr in a json file.
+This is a script using [Puppeteer](https://www.npmjs.com/package/puppeteer) to retreive the data contain in the HTML code of escapegame.fr in a json file.
 
 ## Install
 
