@@ -6,4 +6,4 @@ This is a script using [Puppeteer](https://www.npmjs.com/package/puppeteer) to r
 
 Just run `npm` in your console to install all dependencies and `node index.js` to launch.
 
-![](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif)
+![](data.gif)
